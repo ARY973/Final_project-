@@ -1,0 +1,32 @@
+{
+  "A318": {"co2_kg_per_km": 83.1},
+  "A319": {"co2_kg_per_km": 87.4},
+  "A320": {"co2_kg_per_km": 90.1},
+  "A321": {"co2_kg_per_km": 96.2},
+  "A330": {"co2_kg_per_km": 158.0},
+  "A340": {"co2_kg_per_km": 220.5},
+  "A350": {"co2_kg_per_km": 145.0},
+  "A380": {"co2_kg_per_km": 322.0},
+
+  "B737": {"co2_kg_per_km": 82.5},
+  "B738": {"co2_kg_per_km": 84.4},
+  "B739": {"co2_kg_per_km": 87.9},
+  "B747": {"co2_kg_per_km": 254.0},
+  "B757": {"co2_kg_per_km": 110.2},
+  "B767": {"co2_kg_per_km": 150.0},
+  "B777": {"co2_kg_per_km": 162.2},
+  "B787": {"co2_kg_per_km": 142.0},
+
+  "CRJ2": {"co2_kg_per_km": 65.0},
+  "CRJ7": {"co2_kg_per_km": 70.0},
+  "CRJ9": {"co2_kg_per_km": 75.0},
+
+  "E170": {"co2_kg_per_km": 65.2},
+  "E175": {"co2_kg_per_km": 68.1},
+  "E190": {"co2_kg_per_km": 74.0},
+  "E195": {"co2_kg_per_km": 77.2},
+
+  "DH8D": {"co2_kg_per_km": 55.4},
+
+  "DEFAULT": {"co2_kg_per_km": 90.0}
+}
